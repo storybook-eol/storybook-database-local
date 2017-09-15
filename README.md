@@ -1,10 +1,3 @@
 # Local Database
 
-> status: discontinued
-
-Local database for Kadira Storybooks. This database can be used when developing Storybooks on local machine.
-
-```js
-import createDatabase from '@kadira/storybook-database-local'
-const db = createDatabase({ url: 'http://localhost:9001/db' })
-```
+This feature and repository has been deprecated.
